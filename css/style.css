@@ -31,7 +31,7 @@ header{
 }
 .menu ul {
 	float: right;
-	border: 1px solid red;
+/* 	border: 1px solid red; */
 }
 .menu ul li {
 	list-style: none;
